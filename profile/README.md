@@ -13,9 +13,20 @@ This Assignment has 4 important repositories:
 
 More information about each project can be found on each repository's `README.md` file.
 
-<h3>Members:</h3>
 
-[Afonso Campos](https://github.com/TQSFinalProject) -> Graded: XX/20
-[Diana Siso](https://github.com/DianaSiso) -> Graded: XX/20
-[Isabel Rosário](https://github.com/rospuye) -> Graded: XX/20
-[Miguel Ferreira](https://github.com/MiguelF07) -> Graded: XX/20
+<h3>Project Resources:</h3>
+
+[Jira Dashboard](https://chateau-du-vin.atlassian.net/jira/software/projects/CHATEAU/boards/1) used for Project Backlog Management
+[Sonar Cloud Analysis of Management Application](https://sonarcloud.io/project/overview?id=TQSFinalProject_ManagementApplication)
+[Sonar Cloud Analysis of Store Application
+
+
+<h3>Members</h3>
+
+| Name                                                | NMec   | Role                           | Grade |
+| --------------------------------------------------- | ------ | ------------------------------ | ----- |
+| [Afonso Campos](https://github.com/TQSFinalProject) | 100055 | DevOps Master and Developer    | XX/20 |
+| [Diana Siso](https://github.com/DianaSiso)          | 98607  | Product Owner and Developer    | XX/20 |
+| [Isabel Rosário](https://github.com/rospuye)        | 93343  | Team Coordinator and Developer | XX/20 |
+| [Miguel Ferreira](https://github.com/MiguelF07)     | 98599  | QA Engineer and Developer      | XX/20 |
+
