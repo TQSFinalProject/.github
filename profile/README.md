@@ -25,8 +25,8 @@ More information about each project can be found on each repository's `README.md
 
 | Name                                                | NMec   | Role                           | Grade |
 | --------------------------------------------------- | ------ | ------------------------------ | ----- |
-| [Afonso Campos](https://github.com/TQSFinalProject) | 100055 | DevOps Master and Developer    | XX/20 |
-| [Diana Siso](https://github.com/DianaSiso)          | 98607  | Product Owner and Developer    | XX/20 |
-| [Isabel Rosário](https://github.com/rospuye)        | 93343  | Team Coordinator and Developer | XX/20 |
-| [Miguel Ferreira](https://github.com/MiguelF07)     | 98599  | QA Engineer and Developer      | XX/20 |
+| [Afonso Campos](https://github.com/TQSFinalProject) | 100055 | DevOps Master and Developer    | 18/20 |
+| [Diana Siso](https://github.com/DianaSiso)          | 98607  | Product Owner and Developer    | 18/20 |
+| [Isabel Rosário](https://github.com/rospuye)        | 93343  | Team Coordinator and Developer | 18/20 |
+| [Miguel Ferreira](https://github.com/MiguelF07)     | 98599  | QA Engineer and Developer      | 18/20 |
 
